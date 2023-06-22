@@ -6,3 +6,5 @@
 
 - 📫 How to reach me: mccoybecker@gmail.com
 - 😄 Pronouns: he/him
+
+[![femtomc's GitHub stats](https://github-readme-stats.vercel.app/api?username=femtomc)](https://github.com/femtomc/github-readme-stats)
