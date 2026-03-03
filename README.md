@@ -13,6 +13,11 @@ Current focus:
 - programmable inference systems
 - agent harnesses
 
+I'd characterize myself as a systems thinker - I like sharp programmable tools, and I'm obsessive about design. 
+Most of my work starts from my desire for some sort of experience or useful item, and then I spend a lot of time thinking
+and tinkering, often with the goal of boiling down a design into modular and compositional pieces. 
+I often get stuck in this phase, and like for my collaborators to yank me out.
+
 <br clear="right"/>
 
 ### Selected long-running projects
