@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=femtomc&theme=github_dark" align="right" width="40%" />
 
-I’m a parent and a PhD researcher at MIT ProbComp.
+I’m currently a PhD student at MIT ProbComp.
 
 I work on probabilistic algorithms and software for modern hardware, with a lot of time spent in programming languages, compilers, and agent tooling.
 
