@@ -5,13 +5,13 @@
 
 I’m currently a PhD student at MIT ProbComp.
 
-I work on probabilistic algorithms and software for modern hardware, with a lot of time spent in programming languages, compilers, and agent tooling.
+I work on probabilistic algorithms and software for modern hardware, with a lot of my time spent thinking about programming languages, compilers, and systems.
 
 Current focus:
 
 - probabilistic programming on accelerators
 - programmable inference systems
-- long-running operator workflows for reliable agents
+- agent harnesses
 
 <br clear="right"/>
 
