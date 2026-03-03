@@ -16,7 +16,9 @@ Current focus:
 I'd characterize myself as a systems thinker - I like sharp programmable tools, and I'm obsessive about design. 
 Most of my work starts from my desire for some sort of experience or useful item, and then I spend a lot of time thinking
 and tinkering, often with the goal of boiling down a design into modular and compositional pieces. 
-I often get stuck in this phase, and like for my collaborators to yank me out.
+I often get stuck in this phase, and like for my collaborators to yank me out. When it comes to projects, I'm not risk averse,
+and I'm willing to spend a large amount of time to get something right or try something crazy. This may indicate I'll never be a very 
+successful academic, but I'm happy to share designs which I think are good with the world.
 
 <br clear="right"/>
 
