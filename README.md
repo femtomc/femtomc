@@ -17,7 +17,7 @@ Current focus:
 
 ### Selected long-running projects
 
-_This list prioritizes projects with sustained multi-week development and omits short scratch repos._
+_This list prioritizes projects with sustained many-week development and omits short scratch repos, of which I have endless._
 
 #### Probabilistic programming
 
