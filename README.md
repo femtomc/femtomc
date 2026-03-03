@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    alt="header"
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=McCoy%20R.%20Becker%20%28femtomc%29&fontSize=36&fontAlignY=35&desc=probabilistic%20programming%20%7C%20PL%20systems%20%7C%20agent%20tooling&descAlignY=57&color=0:0f172a,50:1e293b,100:334155&fontColor=ffffff"
-  />
-</p>
-
 <p><pre align="center"><strong>McCoy R. Becker /</strong> <a href="https://femtomc.github.io">Homepage</a> / <a href="https://github.com/femtomc">GitHub</a> / <a href="https://github.com/genjax-community/genjax">genjax-community</a> / <a href="https://probcomp.csail.mit.edu/">MIT ProbComp</a></pre></p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=femtomc&theme=github_dark" align="right" width="41%" />
