@@ -1,6 +1,7 @@
-<p><pre align="center"><strong>McCoy R. Becker /</strong> <a href="https://femtomc.github.io">Homepage</a> / <a href="https://github.com/femtomc">GitHub</a> / <a href="https://github.com/genjax-community/genjax">genjax-community</a> / <a href="https://probcomp.csail.mit.edu/">MIT ProbComp</a></pre></p>
+<p align="center"><strong>McCoy R. Becker (femtomc)</strong></p>
+<p align="center"><a href="https://femtomc.github.io">Homepage</a> · <a href="https://github.com/femtomc">GitHub</a> · <a href="https://github.com/genjax-community/genjax">genjax-community</a> · <a href="https://probcomp.csail.mit.edu/">MIT ProbComp</a></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=femtomc&theme=github_dark" align="right" width="41%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=femtomc&theme=github_dark" align="right" width="40%" />
 
 I’m a parent and a PhD researcher at MIT ProbComp.
 
