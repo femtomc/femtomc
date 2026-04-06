@@ -82,6 +82,44 @@ _Packages with recent commit activity._
 - <a href="https://arxiv.org/abs/2406.15742"><img src="https://img.shields.io/badge/arXiv-2406.15742-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Reverse-mode ADEV via YOLO: tangent estimators transpose to gradient estimators (LAFI 2024)](https://github.com/femtomc/reverse-mode-adev-lafi-2024)**
 - <a href="https://www.cell.com/cell/fulltext/S0092-8674(23)00850-4"><img src="https://img.shields.io/badge/Cell-2023-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Brain-wide representations of behavior spanning multiple timescales and states in C. elegans (Cell 2023)**
 
+### Tools I use
+
+_Open-source software that makes my workflow possible. Consider supporting the ones you use too._
+
+#### Editors & shell
+
+| | Tool | What | Sponsor |
+|---|------|------|---------|
+| <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" width="16"/> | **[Neovim](https://github.com/neovim/neovim)** | editor | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/neovim) |
+| <img src="https://starship.rs/icon.png" width="16"/> | **[Starship](https://github.com/starship/starship)** | prompt | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/starship) |
+| | **[tmux](https://github.com/tmux/tmux)** | multiplexer | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/nicm) |
+| | **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)** | zsh framework | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/ohmyzsh) |
+| | **[Zed](https://github.com/zed-industries/zed)** | editor | |
+| | **[kitty](https://github.com/kovidgoyal/kitty)** | terminal | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/kovidgoyal) |
+
+#### CLI tools
+
+| | Tool | What | Sponsor |
+|---|------|------|---------|
+| | **[ripgrep](https://github.com/BurntSushi/ripgrep)** | grep | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/BurntSushi) |
+| | **[fzf](https://github.com/junegunn/fzf)** | fuzzy finder | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/junegunn) |
+| | **[bat](https://github.com/sharkdp/bat)** | cat | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/sharkdp) |
+| | **[fd](https://github.com/sharkdp/fd)** | find | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/sharkdp) |
+| | **[eza](https://github.com/eza-community/eza)** | ls | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/cafkafk) |
+| | **[delta](https://github.com/dandavison/delta)** | git pager | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/dandavison) |
+| | **[zoxide](https://github.com/ajeetdsouza/zoxide)** | cd | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/ajeetdsouza) |
+| | **[lazygit](https://github.com/jesseduffield/lazygit)** | git TUI | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/jesseduffield) |
+| | **[mise](https://github.com/jdx/mise)** | version manager | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/jdx) |
+
+#### Neovim plugins
+
+| | Tool | Author | Sponsor |
+|---|------|--------|---------|
+| | **[lazy.nvim](https://github.com/folke/lazy.nvim)** / **[LazyVim](https://github.com/LazyVim/LazyVim)** / **[snacks.nvim](https://github.com/folke/snacks.nvim)** / **[trouble.nvim](https://github.com/folke/trouble.nvim)** / **[which-key](https://github.com/folke/which-key.nvim)** | folke | |
+| | **[gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)** | lewis6991 | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/lewis6991) |
+| | **[oil.nvim](https://github.com/stevearc/oil.nvim)** / **[conform.nvim](https://github.com/stevearc/conform.nvim)** | stevearc | |
+| | **[mini.nvim](https://github.com/echasnovski/mini.nvim)** | echasnovski | |
+
 ---
 
 <p align="center">
