@@ -87,7 +87,7 @@ _Packages with recent commit activity._
 _Open-source software from my [dotfiles](https://github.com/femtomc/snacks) that makes my workflow possible. Nodes with a <b>♥</b> link to the project's sponsor page._
 
 <div align="center">
-<a href="https://github.com/femtomc/snacks"><img src="toolmap.svg" width="80%" /></a>
+<img src="toolmap.svg" width="80%" />
 </div>
 
 ---

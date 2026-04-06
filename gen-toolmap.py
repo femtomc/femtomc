@@ -79,7 +79,7 @@ def make_label(name: str, sponsor: str | None) -> str:
 
 lines = [textwrap.dedent(r"""
 digraph toolmap {
-    bgcolor="#0d1117"
+    bgcolor="transparent"
     pad=0.5
     ratio=compress
     size="10,10"
@@ -110,7 +110,7 @@ digraph toolmap {
         shape=circle
         width=1.1
         fixedsize=true
-        fillcolor="#1c2128"
+        fillcolor="#161b22"
         fontsize=13
         fontcolor="#e6edf3"
         color="#58a6ff"
@@ -123,7 +123,7 @@ digraph toolmap {
 # Category hub nodes
 for cat, color in CATEGORY_COLORS.items():
     cid = f"cat_{cat}"
-    lines.append(f'    {cid} [label=<<FONT POINT-SIZE="9" COLOR="#8b949e">{CATEGORY_LABELS[cat]}</FONT>> shape=plaintext fillcolor="#0d1117" color="#0d1117"]')
+    lines.append(f'    {cid} [label=<<FONT POINT-SIZE="9" COLOR="#8b949e">{CATEGORY_LABELS[cat]}</FONT>> shape=plaintext fillcolor="transparent" color="transparent"]')
     lines.append(f'    snacks -> {cid} [penwidth=0.8 color="#30363d"]')
 
 # Tool nodes
