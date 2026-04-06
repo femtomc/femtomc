@@ -54,9 +54,7 @@ _Packages with recent commit activity._
 </div>
 <!-- CHURN:END -->
 
-### Selected long-running projects
-
-_Projects with sustained many-week development._
+### Selected projects
 
 #### Probabilistic programming
 
