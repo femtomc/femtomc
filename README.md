@@ -43,6 +43,15 @@ _This list prioritizes projects with sustained many-week development and omits s
 
 - **[mu](https://github.com/femtomc/mu)** — Programmable personal assistant for technical work, designed for long-running execution/persistence/reactivity; exposes shell-first primitives (issues, heartbeats, programmable `mu_ui` docs) for custom orchestration. <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/mu?style=social" />
 
+### Local churn
+
+_Packages with recent commit activity._
+
+- **[glom](https://github.com/femtomc/glom)** — Index and search agent context from `~/.claude` and `~/.codex` <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/glom?style=social" />
+- **[smg](https://github.com/femtomc/smg)** — Lightweight analysis engine for codebases <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/smg?style=social" />
+- **[sdfii](https://github.com/femtomc/sdfii)** — Render 3D SDF scenes as ASCII/Unicode terminal animations <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/sdfii?style=social" />
+- **[pelican](https://github.com/femtomc/pelican)** — Constraint-based technical diagrams for AI agents <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/pelican?style=social" />
+
 ---
 
 <p align="center">
