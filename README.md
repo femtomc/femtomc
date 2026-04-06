@@ -27,29 +27,31 @@ successful academic, but I'm happy to share designs which I think are good with 
 _Packages with recent commit activity._
 
 <!-- CHURN:START -->
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="bottom" width="25%">
       <a href="https://github.com/femtomc/glom"><img src="https://raw.githubusercontent.com/femtomc/glom/main/assets/glom-mark.svg" width="64px"/></a><br/>
       <a href="https://github.com/femtomc/glom"><strong>glom</strong></a><br/>
       <sub>agent context search</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="bottom" width="25%">
       <a href="https://github.com/femtomc/smg"><img src="https://img.shields.io/github/stars/femtomc/smg?style=for-the-badge&logo=github&label=smg&color=555&labelColor=333" height="28px"/></a><br/><br/>
       <sub>codebase analysis</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="bottom" width="25%">
       <a href="https://github.com/femtomc/sdfii"><img src="https://raw.githubusercontent.com/femtomc/sdfii/main/assets/showcase.png" width="100px"/></a><br/>
       <a href="https://github.com/femtomc/sdfii"><strong>sdfii</strong></a><br/>
       <sub>terminal 3D SDF renderer</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="bottom" width="25%">
       <a href="https://github.com/femtomc/pelican"><img src="https://raw.githubusercontent.com/femtomc/pelican/main/examples/logo/pelican_logo.png" width="64px"/></a><br/>
       <a href="https://github.com/femtomc/pelican"><strong>pelican</strong></a><br/>
       <sub>constraint-based diagrams</sub>
     </td>
   </tr>
 </table>
+</div>
 <!-- CHURN:END -->
 
 ### Selected long-running projects
