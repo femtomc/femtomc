@@ -5,17 +5,19 @@
 
 <img src="metrics-base.svg" align="right" width="40%" />
 
-I'm a PhD student at MIT ProbComp. I work on probabilistic algorithms and software for modern hardware, with a lot of my time spent thinking about programming languages, compilers, and systems.
+I work on probabilistic algorithms and software for modern hardware, with a lot of my time spent thinking about programming languages, compilers, and systems. 
+I'm currently a PhD student at MIT ProbComp.
 
 Current focus:
 
-- probabilistic programming on accelerators
+- probabilistic programming on accelerators, especially parallel ones
 - programmable inference systems
 - agent harnesses
+- Human/agent interface and interaction design (an important area!)
 
-I'd characterize myself as a systems thinker — I like sharp programmable tools, and I'm obsessive about design.
+I'd characterize myself as a systems thinker — I like sharp programmable tools.
 Most of my work starts from my desire for some sort of experience or useful item, and then I spend a lot of time thinking
-and tinkering, often with the goal of boiling down a design into modular and compositional pieces.
+and tinkering, often with the goal of constructing one of these tools.
 I often get stuck in this phase, and like for my collaborators to yank me out. When it comes to projects, I'm not risk averse,
 and I'm willing to spend a large amount of time to get something right or try something crazy. This may indicate I'll never be a very
 successful academic, but I'm happy to share designs which I think are good with the world.
