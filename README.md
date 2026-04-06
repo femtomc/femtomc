@@ -3,7 +3,7 @@
 <p><pre align="center">
 <strong>McCoy R. Becker /</strong> <a href="https://femtomc.github.io">Homepage</a> / <a href="https://github.com/femtomc">GitHub</a> / <a href="https://probcomp.csail.mit.edu/">MIT ProbComp</a></pre></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=femtomc&theme=github_dark" align="right" width="40%" />
+<img src="metrics-base.svg" align="right" width="40%" />
 
 I'm a PhD student at MIT ProbComp. I work on probabilistic algorithms and software for modern hardware, with a lot of my time spent thinking about programming languages, compilers, and systems.
 
