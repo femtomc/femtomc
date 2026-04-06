@@ -88,6 +88,8 @@ _Open-source software from my [dotfiles](https://github.com/femtomc/snacks) that
 
 <div align="center">
 <img src="toolmap.svg" width="80%" />
+<br/>
+<sub><a href="https://raw.githubusercontent.com/femtomc/femtomc/main/toolmap.svg">click to explore — nodes with ♥ link to sponsor pages</a></sub>
 </div>
 
 ---
