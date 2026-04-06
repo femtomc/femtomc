@@ -84,41 +84,11 @@ _Packages with recent commit activity._
 
 ### Tools I use
 
-_Open-source software that makes my workflow possible. Consider supporting the ones you use too._
+_Open-source software from my [dotfiles](https://github.com/femtomc/snacks) that makes my workflow possible. Nodes with a <b>♥</b> link to the project's sponsor page._
 
-#### Editors & shell
-
-| | Tool | What | Sponsor |
-|---|------|------|---------|
-| <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" width="16"/> | **[Neovim](https://github.com/neovim/neovim)** | editor | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/neovim) |
-| <img src="https://starship.rs/icon.png" width="16"/> | **[Starship](https://github.com/starship/starship)** | prompt | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/starship) |
-| | **[tmux](https://github.com/tmux/tmux)** | multiplexer | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/nicm) |
-| | **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)** | zsh framework | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/ohmyzsh) |
-| | **[Zed](https://github.com/zed-industries/zed)** | editor | |
-| | **[kitty](https://github.com/kovidgoyal/kitty)** | terminal | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/kovidgoyal) |
-
-#### CLI tools
-
-| | Tool | What | Sponsor |
-|---|------|------|---------|
-| | **[ripgrep](https://github.com/BurntSushi/ripgrep)** | grep | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/BurntSushi) |
-| | **[fzf](https://github.com/junegunn/fzf)** | fuzzy finder | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/junegunn) |
-| | **[bat](https://github.com/sharkdp/bat)** | cat | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/sharkdp) |
-| | **[fd](https://github.com/sharkdp/fd)** | find | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/sharkdp) |
-| | **[eza](https://github.com/eza-community/eza)** | ls | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/cafkafk) |
-| | **[delta](https://github.com/dandavison/delta)** | git pager | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/dandavison) |
-| | **[zoxide](https://github.com/ajeetdsouza/zoxide)** | cd | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/ajeetdsouza) |
-| | **[lazygit](https://github.com/jesseduffield/lazygit)** | git TUI | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/jesseduffield) |
-| | **[mise](https://github.com/jdx/mise)** | version manager | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/jdx) |
-
-#### Neovim plugins
-
-| | Tool | Author | Sponsor |
-|---|------|--------|---------|
-| | **[lazy.nvim](https://github.com/folke/lazy.nvim)** / **[LazyVim](https://github.com/LazyVim/LazyVim)** / **[snacks.nvim](https://github.com/folke/snacks.nvim)** / **[trouble.nvim](https://github.com/folke/trouble.nvim)** / **[which-key](https://github.com/folke/which-key.nvim)** | folke | |
-| | **[gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)** | lewis6991 | [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/lewis6991) |
-| | **[oil.nvim](https://github.com/stevearc/oil.nvim)** / **[conform.nvim](https://github.com/stevearc/conform.nvim)** | stevearc | |
-| | **[mini.nvim](https://github.com/echasnovski/mini.nvim)** | echasnovski | |
+<div align="center">
+<a href="https://github.com/femtomc/snacks"><img src="toolmap.svg" width="80%" /></a>
+</div>
 
 ---
 
