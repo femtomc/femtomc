@@ -27,13 +27,30 @@ successful academic, but I'm happy to share designs which I think are good with 
 _Packages with recent commit activity._
 
 <!-- CHURN:START -->
-<a href="https://github.com/femtomc/glom"><img src="https://raw.githubusercontent.com/femtomc/glom/main/assets/glom-logo.svg" width="24%"></a><a href="https://github.com/femtomc/pelican"><img src="https://raw.githubusercontent.com/femtomc/pelican/main/examples/logo/pelican_logo.png" width="24%"></a><a href="https://github.com/femtomc/mu"><img src="https://raw.githubusercontent.com/femtomc/mu/main/assets/mu-periodic-logo.svg" width="24%"></a><a href="https://github.com/femtomc/smg"><img src="https://img.shields.io/badge/smg-lightweight_analysis_engine-555?style=for-the-badge&labelColor=333" width="24%"></a>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/femtomc/glom"><img src="https://raw.githubusercontent.com/femtomc/glom/main/assets/glom-mark.svg" width="64px"/></a><br/>
+      <a href="https://github.com/femtomc/glom"><strong>glom</strong></a><br/>
+      <sub>agent context search</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/femtomc/smg"><img src="https://img.shields.io/github/stars/femtomc/smg?style=for-the-badge&logo=github&label=smg&color=555&labelColor=333" height="28px"/></a><br/><br/>
+      <sub>codebase analysis</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/femtomc/sdfii"><img src="https://raw.githubusercontent.com/femtomc/sdfii/main/assets/showcase.png" width="100px"/></a><br/>
+      <a href="https://github.com/femtomc/sdfii"><strong>sdfii</strong></a><br/>
+      <sub>terminal 3D SDF renderer</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/femtomc/pelican"><img src="https://raw.githubusercontent.com/femtomc/pelican/main/examples/logo/pelican_logo.png" width="64px"/></a><br/>
+      <a href="https://github.com/femtomc/pelican"><strong>pelican</strong></a><br/>
+      <sub>constraint-based diagrams</sub>
+    </td>
+  </tr>
+</table>
 <!-- CHURN:END -->
-
-- **[glom](https://github.com/femtomc/glom)** — Index and search agent context from `~/.claude` and `~/.codex` <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/glom?style=social" />
-- **[smg](https://github.com/femtomc/smg)** — Lightweight analysis engine for codebases <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/smg?style=social" />
-- **[sdfii](https://github.com/femtomc/sdfii)** — Render 3D SDF scenes as ASCII/Unicode terminal animations <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/sdfii?style=social" />
-- **[pelican](https://github.com/femtomc/pelican)** — Constraint-based technical diagrams for AI agents <img align="right" alt="stars" src="https://img.shields.io/github/stars/femtomc/pelican?style=social" />
 
 ### Selected long-running projects
 
